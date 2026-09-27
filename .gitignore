@@ -1,0 +1,3 @@
+.arduino/
+build/
+__pycache__/
