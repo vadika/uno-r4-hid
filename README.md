@@ -132,7 +132,4 @@ packet formats, protocol switching, idle behavior, and keyboard LED reports.
 The command test exclusively grabs the board's input devices so generated input
 does not reach the desktop, and tests serial/Wi-Fi commands and release behavior.
 
-Both suites passed on the development UNO R4 WiFi. Actual Ghaf guest passthrough
-and BIOS operation remain target-specific validation tasks. The initial
-[handoff.md](handoff.md) also records an optional dual-USB hardware proposal;
-that wiring is not needed by this implementation.
+
